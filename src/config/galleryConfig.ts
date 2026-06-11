@@ -17,7 +17,7 @@ export const galleryConfig: GalleryConfig = {
 		// 每添加一个数组项就相当于添加了一个相册，记得在 public/gallery/ 目录下创建对应的子目录并放入图片
 		{
 			id: "demon-2024",
-			name: "京都旅",
+			name: "上洛！",
 			description: "本能寺——二条御所——伏见稻荷神社——清水寺",
 			location: "日本 京都",
 			date: "2024-11",
