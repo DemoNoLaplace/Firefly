@@ -1,3 +1,4 @@
+import { isCallOrNewExpression } from "typescript";
 import type { SakuraConfig } from "../types/config";
 
 // 樱花对象类
@@ -163,7 +164,7 @@ function getRandom(
 				config.size.min + Math.random() * (config.size.max - config.size.min);
 			break;
 		case "r":
-			ret = Math.random() * 6;
+			ret = 0.125 * 6;
 			break;
 		case "a":
 			ret =

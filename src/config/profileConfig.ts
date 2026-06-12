@@ -9,10 +9,10 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/zhougongjin.avif",
 
 	// 名字
-	name: "Demon",
+	name: "Demon0Laplace",
 
 	// 个人签名
-	bio: "欢迎来到Demon的屋敷! ",
+	bio: "LONG MAY THE HUMANS IMPROVE ",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons

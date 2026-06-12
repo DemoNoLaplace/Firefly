@@ -1,6 +1,8 @@
 # 关于我 / About Me
 
-你好！我是 **Demon**。
+你好！我是 **Demon0Laplace**，欢迎浏览我的博客，我会发布我在robotic、深度学习领域相关的学习笔记，以及发布一些旅行相片，或一些历史相关的介绍文章。谢谢你的浏览！
+
+本站使用**夏叶**大佬的开源项目，具体介绍如下。
 
 ## 🛠️ 关于本站
 
@@ -9,9 +11,9 @@
 **Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
 
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+**🖥️项目在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
 
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
+**🏠原项目作者博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
 
 **📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
 

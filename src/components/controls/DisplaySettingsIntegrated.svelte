@@ -732,7 +732,7 @@ $effect(() => {
                     class:bg-(--btn-regular-bg-hover)={sakuraEnabled}
                     onclick={toggleSakuraEnabled}
                 >
-                    <Icon icon="mdi:flower-poppy" class="text-[1.25rem] shrink-0"></Icon>
+                    <Icon icon="material-symbols:star-outline-rounded" class="text-[1.25rem] shrink-0"></Icon>
                     <span class="text-sm flex-1">{i18n(I18nKey.sakuraEffect)}</span>
                     <div class="w-10 h-5 rounded-full transition-all duration-200 relative"
                          class:bg-(--primary)={sakuraEnabled}

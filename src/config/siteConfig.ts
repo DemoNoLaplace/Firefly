@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
 
 	// 站点描述
 	description:
-		"这是DEMON的工科与历史学习备忘录",
+		"DEMON0LAPLACE的博客",
 
 	// 站点关键词
 	keywords: [
@@ -54,7 +54,8 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		{
 			// 图标文件路径
-			src: "/favicon/favicon.ico",
+			src: "/favicon/yumao.ico",
+			sizes: "32x32"
 			// 可选，指定主题 'light' | 'dark'
 			// theme: "light",
 			// 可选，图标大小
