@@ -16,12 +16,22 @@ export const galleryConfig: GalleryConfig = {
 		// passwordHint: 密码提示，设置后在输入密码错误时显示（可选，需配合password使用）
 		// 每添加一个数组项就相当于添加了一个相册，记得在 public/gallery/ 目录下创建对应的子目录并放入图片
 		{
-			id: "demon-2024",
+			id: "kyoto-2024",
+			cover: "public/gallery/cover1.jpeg",
 			name: "上洛！",
-			description: "本能寺——二条御所——伏见稻荷神社——清水寺",
+			description: "本能寺——二条御所——伏见稻荷神社——岚山&嵯峨野——清水寺",
 			location: "日本 京都",
 			date: "2024-11",
-			tags: ["京都"],
+			tags: ["旅行", "京都"],
+		},
+		{
+			id: "shanghai-2025",
+			cover: "public/gallery/cover2.jpg",
+			name: "沪！",
+			description: "世博馆——自然博物馆——外滩",
+			location: "中国 上海",
+			date: "2025-10",
+			tags: ["旅行", "上海"],
 		},
 	],
 
