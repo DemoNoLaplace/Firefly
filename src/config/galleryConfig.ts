@@ -17,7 +17,7 @@ export const galleryConfig: GalleryConfig = {
 		// 每添加一个数组项就相当于添加了一个相册，记得在 public/gallery/ 目录下创建对应的子目录并放入图片
 		{
 			id: "kyoto-2024",
-			cover: "public/gallery/cover1.jpeg",
+			cover: "public/gallery/kyoto-2024/cover/cover1.jpg",
 			name: "上洛！",
 			description: "本能寺——二条御所——伏见稻荷神社——岚山&嵯峨野——清水寺",
 			location: "日本 京都",
@@ -26,7 +26,7 @@ export const galleryConfig: GalleryConfig = {
 		},
 		{
 			id: "shanghai-2025",
-			cover: "public/gallery/cover2.jpg",
+			cover: "public/gallery/shanghai-2025/cover/cover2.jpg",
 			name: "沪！",
 			description: "世博馆——自然博物馆——外滩",
 			location: "中国 上海",
@@ -37,5 +37,5 @@ export const galleryConfig: GalleryConfig = {
 
 	// 瀑布流最小列宽(px)，浏览器根据容器宽度自动计算列数，默认 240
 	// 值越小列数越多，值越大列数越少
-	columnWidth: 240,
+	columnWidth: 300,
 };
